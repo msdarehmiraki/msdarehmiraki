@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AhmedDabish/AhmedDabish/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/msdarehmiraki/msdarehmiraki/blob/output/github-snake-dark.svg">
   <img src="https://github.com/msdarehmiraki/msdarehmiraki/blob/output/github-snake.svg">
 </picture>
+
