@@ -31,3 +31,14 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/>
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msdarehmiraki&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msdarehmiraki&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdarehmiraki&layout=compact&theme=tokyonight"/>
+</p>
+
+
