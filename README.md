@@ -20,3 +20,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/msdarehmiraki/msdarehmiraki/blob/output/github-snake.svg">
 </picture>
 
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css&perline=4"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/>
+</p>
+
