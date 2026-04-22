@@ -42,3 +42,21 @@ Here are some ideas to get you started:
 </p>
 
 
+
+
+
+
+## 📫 Contact
+<p align="center">
+  <a href="https://github.com/msdarehmiraki">
+    <img src="https://img.shields.io/badge/GitHub-msdarehmiraki-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:msdarehmiraki@gmail.com">
+    <img src="https://img.shields.io/badge/Email-msdarehmiraki@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohammad-darehmiraki-604366405/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Darehmiraki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
