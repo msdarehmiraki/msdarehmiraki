@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,django,pycharm&perline=6"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea,linkedin&perline=6"/>
 </p>
 
 ## 📊 GitHub Stats
